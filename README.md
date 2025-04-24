@@ -1,16 +1,15 @@
 # TimeSeries-Forecasting
-*If you know machine learning, then it is a breeze. If you don't, then you will.*
+*If you know a wee bit about machine learning, life is rosy. If you don't, well then, you will.*
 
 ### 🐤 Background
-This time, I just did it. Took it as a challenge and to learn it. This topic was being postponed since the start. I thought *will learn, will learn sometime* because it didn't sound much exciting to me *(or say, I was worried about its complexity, without learning it)*.
+I did it this time; I sorta took it as a challenge to learn. This subject had been on the back burner since the beginning. I thought *will learn, will learn someday* since it didn't seem that interesting to me *(or whatever-you want to call it- I panicked at the thought of its complexity; never really learned it).* 
 
-Finally took an opportunity and got started. And believe me, it amazed me. Like *what*!? Time-series forecasting ***is*** amazing. And again, if you know machine learning algorithms, then it will be so helpful for you.
+Anyway, it finally got a shot, and I went ahead. And trust me, it blew my mind. Like *what*!? Time-series forecasting ***is*** cool. And again, if you are into machine learning algorithms, that would help.
+
+> **Disclaimer:** This course is made for my own and the readers' education. The original course must be taken where possible. The GitHub course covers most of the lecture materials *(with given credits)* but in a simplified way. Hope the reader understands my intent 🙏
 
 
-> **Disclaimer**: I have made this course only as a part to educate myself and anyone who is reading this. Taking the original course is appreciated. This GitHub course covers most of the lecture material *(with given credits)* in a simplified manner. Hope the reader understands my intent 🙏
-
-
-*Learning means doing. Read it as a story, practice it as a real-life*
+*Learning means doing. Read it as a story, practice it in real life.* 
 
 Thank you <br>
 Syeeda ∞ Fatima
